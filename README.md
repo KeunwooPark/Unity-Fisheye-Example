@@ -2,6 +2,7 @@
 This is a sample code for make a fisheye camera (orthographic projection) in Unity.
 
 ![environment setting](envorionment.png)
+![fisheye image](fisheye_image.png)
 
 ## Quick Start
 1. Open *TestScene*.
